@@ -11,5 +11,5 @@ This is my repository for a class project for [Getting and Cleaning Data](https:
 
 Note that it requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
 
-**The output of the R script is a tidy data set, [tidyDataSet.txt](tidyDataSet.txt).**
+The output of the R script is a tidy data set, [tidyDataSet.txt](tidyDataSet.txt).
 
